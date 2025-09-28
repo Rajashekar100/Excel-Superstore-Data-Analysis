@@ -1,8 +1,12 @@
 # Excel-Superstore-Data-Analysis
 This Project is Analysis of Kaggle Superstore Dataset.The analysis include Preprocessing of raw data and transforming tin to format where we can do data analysis without any errors .After preprocessing it pivot table and pivot charts are drawn and by using them at end we created a dashboard containg slicers for interactivity.
+
+<img width="1848" height="860" alt="image" src="https://github.com/user-attachments/assets/9149fea3-c003-4e61-81dd-cca648808824" />
+
+
 # 📊 Excel Superstore Data Analysis
 
-<img width="1848" height="860" alt="image" src="https://github.com/user-attachments/assets/a4cf2a54-9e79-4c5a-8823-5b0c2524a389" />
+
 
 
 ## 📌 Project Overview
